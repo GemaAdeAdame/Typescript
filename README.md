@@ -2,7 +2,7 @@
 
 Se propone realizar unas clases para almacenar la lógica de una agenda con los datos personales de los individuos: direcciones, teléfonos, mails… Cada clase ha de crearse en un archivo TypeScript diferente.
 
-   
+   https://github.com/GemaAdeAdame/Typescript/blob/5f144cd1a70e2a9a976dca40557787fb78e7fcbc/images/tabla%20typescript.png
 ![]images/tabla typescript.png
 Se valorará la correcta selección de tipos y la definición de funciones necesarias para acceso a los atributos.
 
